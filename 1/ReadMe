@@ -1,12 +1,15 @@
 /**
 *
 *  Linux system programming
-*
+*  Process Subsystem
 **/
 
-Assignment : Write a program which accept file name from user and open that file.
+Assignment : Write a program in which parent process waits till its child process terminates.
 
 Description :
-We will "open" sys call to open the file.
-It is assumed that we will be accepting the absolute path.
-peerror is used for printing the error accordingly.
+This code creates new thread child and parent process waits till the child is terminated.
+
+Note :
+When vfork is used to ensure that the child executes first, and not explicite call to _exit() is made, then the program is in loop.
+Why this behaviour ?
+Currently only fork is used.
