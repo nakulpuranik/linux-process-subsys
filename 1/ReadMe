@@ -1,0 +1,12 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name from user and open that file.
+
+Description :
+We will "open" sys call to open the file.
+It is assumed that we will be accepting the absolute path.
+peerror is used for printing the error accordingly.
