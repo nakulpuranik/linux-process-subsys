@@ -12,4 +12,4 @@ This code creates new thread child and parent process waits till the child is te
 Note :
 When vfork is used to ensure that the child executes first, and not explicite call to _exit() is made, then the program is in loop.
 Why this behaviour ?
-Currently only fork is used.
+Currently only vfork with call to exit  function is used.
