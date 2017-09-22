@@ -2,7 +2,10 @@
 # which gets stored in macro ARGS
 
 all:
-	gcc processHierarchy.c -o FinalExe
+	#gcc processHierarchy.c -o FinalExe
+	gcc proc1.c -o proc1
+	gcc proc2.c -o proc2
+	gcc proc3.c -o proc3
 run:
 	./FinalExe ${ARGS}
 usage:

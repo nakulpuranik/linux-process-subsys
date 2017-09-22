@@ -8,4 +8,6 @@ Assignment : Write a program which create three level process hierarchy where pr
 
 Description :
 This code creates three level process hierarchy. 
-System call used which are fork(), exec() 
+System call used which are fork(), exec().
+
+NOTE: processHierarchy.c file should be ignored for now, was trying to pass the same executable for the sublevel hierarchy. and is work in pending.
