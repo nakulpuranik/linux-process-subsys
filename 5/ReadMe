@@ -1,0 +1,13 @@
+/**
+*
+*  Linux system programming
+*  Process Subsystem
+**/
+
+Assignment : Write a program which is used to create deamon process.
+
+Description :
+This program creates the daemon process and it will write to the file which is supplied to it.
+With ps -xj | grep <name of prog> we can check if our daemon process is working or not.
+
+Note : No validations are applied. It is assumed that the user will enter only regular file.
