@@ -10,6 +10,6 @@ My solutions for Linux system programming for process subsystem.
 
 - [x] 5. Write a program which is used to create deamon process.
 
-- [ ] 6. Write a program which creates new process which is responsible to write all file names which are present on desktop in demo file which should be created newly.
+- [x] 6. Write a program which creates new process which is responsible to write all file names which are present on desktop in demo file which should be created newly.
 
 - [ ] 7. Write a program which creates two processess.Process 1 count number of capital characters from demo.txt file.And process 2 count number of capital characters from hello.txt file.Both the processess writes its count in count.txt file.
