@@ -6,7 +6,7 @@ My solutions for Linux system programming for process subsystem.
 
 - [x] 3. Write a program which creates three diffrent processess internally as process2, process3, process4.
 
-- [ ] 4. Write a program which creates two processess as process2 and process3 and our parent process terminates till both the processess terminates.
+- [x] 4. Write a program which creates two processess as process2 and process3 and our parent process terminates after both the processess terminates.
 
 - [ ] 5. Write a program which is used to create deamon process.
 
