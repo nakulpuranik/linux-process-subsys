@@ -8,7 +8,7 @@ My solutions for Linux system programming for process subsystem.
 
 - [x] 4. Write a program which creates two processess as process2 and process3 and our parent process terminates after both the processess terminates.
 
-- [ ] 5. Write a program which is used to create deamon process.
+- [x] 5. Write a program which is used to create deamon process.
 
 - [ ] 6. Write a program which creates new process which is responsible to write all file names which are present on desktop in demo file which should be created newly.
 
