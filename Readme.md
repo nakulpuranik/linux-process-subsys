@@ -4,7 +4,7 @@ My solutions for Linux system programming for process subsystem.
 
 - [x] 2. Write a program which create three level process hierarchy where process 1 creates process 2 and it internally creates process
 
-- [ ] 3. Write a program which creates three diffrent processess internally as process2, process3, process4.
+- [x] 3. Write a program which creates three diffrent processess internally as process2, process3, process4.
 
 - [ ] 4. Write a program which creates two processess as process2 and process3 and our parent process terminates till both the processess terminates.
 
