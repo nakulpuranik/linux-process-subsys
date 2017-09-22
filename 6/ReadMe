@@ -1,0 +1,10 @@
+/**
+*
+*  Linux system programming
+*  Process Subsystem
+**/
+
+Assignment : Write a program which creates new process which is responsible to write all file names which are present on desktop in demo file which should be created newly.
+
+Description :
+this program create new process, which list all regular file names from the desktop directory and wrote it in new file demo.
