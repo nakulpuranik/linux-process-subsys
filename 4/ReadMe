@@ -1,0 +1,11 @@
+/**
+*
+*  Linux system programming
+*  Process Subsystem
+**/
+
+Assignment : Write a program which creates three diffrent processess internally as process2, process3, process4.
+
+Description :
+This code creates two different processes with system call used which are fork(), exec().
+This parent process waits till the child processes complete there execution.
