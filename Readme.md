@@ -2,7 +2,7 @@ My solutions for Linux system programming for process subsystem.
 
 - [x] 1. Write a program in which parent process waits till its child process terminates.
 
-- [ ] 2. Write a program which create three level process hierarchy where process 1 creates process 2 and it internally creates process
+- [x] 2. Write a program which create three level process hierarchy where process 1 creates process 2 and it internally creates process
 
 - [ ] 3. Write a program which creates three diffrent processess internally as process2, process3, process4.
 
